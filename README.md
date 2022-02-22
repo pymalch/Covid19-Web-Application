@@ -793,7 +793,7 @@ eval $(minikube docker-env)
 ![alt text](https://github.com/mohaghighi/Covid19-Web-Application/raw/master/images/Labs/Slide80.png)
 #### Verify you're using minikube's docker by looking up the images
 ```
-docker get images
+docker images
 ```
 ### Useful Commands for Docker
 
